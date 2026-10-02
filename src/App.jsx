@@ -782,7 +782,7 @@ function App() {
   </div>
 
 </section>
-/* ================= CONTACT ================= */
+
 
 <section id="contact" className="contact-section">
   <div className="contact-heading">
